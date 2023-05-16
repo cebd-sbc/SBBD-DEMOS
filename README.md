@@ -24,11 +24,11 @@ _Browse the topics below to explore the SBBD Demos and Applications!_
 
 ## _Most popular tools_
 
-- See [here the top-15 list of most popular SBBD demos and applications on Gitub](Lists/EditorsChoicePart1.md).
+- See [here the top-15 list of the most popular SBBD demos and applications on GitHub](Lists/EditorsChoicePart1.md).
 
 ## _See published Applications by year_
 
-- The list of publised demos and applications by year is avaliable [here](Lists/ByYear.md).
+- The list of published demos and applications by year is avaliable [here](Lists/ByYear.md).
 
 ## Notes
 
