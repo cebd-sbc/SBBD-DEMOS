@@ -8,6 +8,16 @@
 
 | Year | Paper |
 | ------ | ------ |
+| 2023 | [Desenvolvimento de um Sistema para Gestão de Propriedade Intelectual para Instituições de Ciência e Tecnologia](https://sbbd.org.br/2023/) |
+| 2023 | [MoreData: Enriquecimento Semântico para Grandes Volumes de Dados Geolocalizados](https://sbbd.org.br/2023/) |
+| 2023 | [ALTES: uma Ferramenta de Rotulacão Automática de Tópicos á partir de Fontes Externas](https://sbbd.org.br/2023/) |
+| 2023 | [STMotif Explorer: A Tool for Spatiotemporal Motif Analysis](https://sbbd.org.br/2023/) |
+| 2023 | [Pluv-Web: um Gateway Científico Orientado a Dados para Análise e Monitoramento de Chuvas na Cidade de Niterói](https://sbbd.org.br/2023/) |
+| 2023 | [LiRB: Um Navegador Leve Baseado em Texto para Knowledge Graphs RDF](https://sbbd.org.br/2023/) |
+| 2023 | [MobApp: A Data Visualization Tool for Trajectory Analysis](https://sbbd.org.br/2023/) |
+| 2023 | [Flower-PROV: Captura Distribuída de Dados de Proveniência em Experimentos de Aprendizado Federado](https://sbbd.org.br/2023/) |
+| 2023 | [INSTRUCTOR: uma Ferramenta para Analise de Trajetórias Anômalas de Navios por Meio de Algoritmos de Agrupamento](https://sbbd.org.br/2023/) |
+| 2023 | [ENoW - Extrator de Dados de Notícias da Web](https://sbbd.org.br/2023/) |
 | 2022 | [Legacy-DB: Uma ferramenta para validação da migração dedados em bancos de dados heterogêneos](https://sol.sbc.org.br/index.php/sbbd_estendido/issue/view/988) |
 | 2022 | [Minervaweb: Análise de Colaboração em Processos de Negócio por meio de Dados de Proveniência Multimodais](https://sol.sbc.org.br/index.php/sbbd_estendido/issue/view/988) |
 | 2022 | [Um Sistema para Consultar Eventos de Trânsito Históricos do Waze](https://sol.sbc.org.br/index.php/sbbd_estendido/issue/view/988) |
@@ -168,6 +178,5 @@
 ## Notes
 
 _(C) SOFTWARE IS PROVIDED ``AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE AUTHORS OF THIS SOFTWARE OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE._
-
 
 
