@@ -8,6 +8,13 @@
 
 | Year| Demo | Code | Paper |
 | ------ | ------ | ------ | ------ |
+| 2023 | MoreData | [Code](https://github.com/NESPEDUFV/more-data) | [Paper](https://sbbd.org.br/2023/) |
+| 2023 | ALTES | [Code](https://github.com/UFFeScience/ALTES) | [Paper](https://sbbd.org.br/2023/) |
+| 2023 | STMotif Explorer | [Code](https://github.com/cefet-rj-dal/STMotifexplorer) | [Paper](https://sbbd.org.br/2023/) |
+| 2023 | LiRB | [Code](https://github.com/CaioViktor/LiRB) | [Paper](https://sbbd.org.br/2023/) |
+| 2023 | MobApp | [Code](https://github.com/Mobapp-Dashboard) | [Paper](https://sbbd.org.br/2023/) |
+| 2023 | Flower-PROV | [Code](https://github.com/UFFeScience/Flower-PROV) | [Paper](https://sbbd.org.br/2023/) |
+| 2023 | INSTRUCTOR | [Code](https://github.com/UFFeScience/instructor) | [Paper](https://sbbd.org.br/2023/) |
 | 2022 | Legacy-DB | [Code](https://github.com/eletromarlon/Projeto-GeradorDeGraficos) | [Paper](https://sol.sbc.org.br/index.php/sbbd_estendido/issue/view/988) |
 | 2022 | MinervaWeb | [Code](https://github.com/luisaesposito/minerva-backend) | [Paper](https://sol.sbc.org.br/index.php/sbbd_estendido/issue/view/988) |
 | 2022 | Python OAM | [Code](https://github.com/rodrigo-fss/python-oam) | [Paper](https://sol.sbc.org.br/index.php/sbbd_estendido/issue/view/988) |
