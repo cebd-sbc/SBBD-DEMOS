@@ -8,6 +8,16 @@
 
 | Year| Demo | Code | Paper |
 | ------ | ------ | ------ | ------ |
+| 2024 | ImageLogViewer | [Code](https://github.com/Rodrigo-P/ImageLogViewer) | [Paper](https://sbbd.org.br/2024/) |
+| 2024 | I-DataMig | [Code](https://github.com/VicMisael/IDataMig) | [Paper](https://sbbd.org.br/2024/) |
+| 2024 | FAIR | [Code](https://github.com/brasileiroaraujo/FAIR) | [Paper](https://sbbd.org.br/2024/) |
+| 2024 | MAT-Tools | [Code](https://github.com/mat-analysis/mat-tools) | [Paper](https://sbbd.org.br/2024/) |
+| 2024 | ContextEKG Explorer | [Code](https://github.com/renato-freitas/ContextEKG_Explorer) | [Paper](https://sbbd.org.br/2024/) |
+| 2024 | LLM MRI | [Code](https://github.com/explic-ai/LLM-MRI) | [Paper](https://sbbd.org.br/2024/) |
+| 2024 | brModeloPD | [Code](https://github.com/jmmfilho/lgpdbyd) | [Paper](https://sbbd.org.br/2024/) |
+| 2024 | Rel2Doc | [Code](https://github.com/ttainam/migration_demo) | [Paper](https://sbbd.org.br/2024/) |
+| 2024 | Monitor de WhatsApp 2.0 | [Code](https://github.com/LOCUS-DCC-UFMG/monitor_whatsapp) | [Paper](https://sbbd.org.br/2024/) |
+| 2024 | DataNexus | [Code](https://github.com/ggustavo/DataNexus) | [Paper](https://sbbd.org.br/2024/) |
 | 2023 | MoreData | [Code](https://github.com/NESPEDUFV/more-data) | [Paper](https://sbbd.org.br/2023/) |
 | 2023 | ALTES | [Code](https://github.com/UFFeScience/ALTES) | [Paper](https://sbbd.org.br/2023/) |
 | 2023 | STMotif Explorer | [Code](https://github.com/cefet-rj-dal/STMotifexplorer) | [Paper](https://sbbd.org.br/2023/) |
